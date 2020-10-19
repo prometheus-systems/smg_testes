@@ -2578,7 +2578,11 @@ mat-card img{
 }
 
 .make-crud {
-  background-color: rgb(141, 153, 180);
+  background-color: rgb(214, 89, 0);
+}
+
+.make-pend {
+  background-color: rgb(148, 138, 172);
 }
 
 .make-splash {
